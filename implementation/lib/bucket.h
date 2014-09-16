@@ -1,5 +1,6 @@
 #include "util.h"
 #include "insertion.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

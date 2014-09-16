@@ -1,6 +1,7 @@
+#include "util.h"
+
 #include <stdio.h>
 #include <stdlib.h>
-#include "util.h"
 
 void insertion(char * temp, int num);
 
